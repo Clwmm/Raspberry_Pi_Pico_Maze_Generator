@@ -17,8 +17,8 @@ This repository contains a project for procedural creating and solving a maze us
 
 ## Photo
 
-![Photo](https://github.com/Clwmm/Clwmm/Raspberry_Pi_Pico_Maze_Generator/blob/main/img1.jpg)
+![Photo](https://github.com/Clwmm/Raspberry_Pi_Pico_Maze_Generator/blob/main/img1.jpg)
 
-![Photo](https://github.com/Clwmm/Clwmm/Raspberry_Pi_Pico_Maze_Generator/blob/main/img2.jpg)
+![Photo](https://github.com/Clwmm/Raspberry_Pi_Pico_Maze_Generator/blob/main/img2.jpg)
 
 **Happy Coding!**
